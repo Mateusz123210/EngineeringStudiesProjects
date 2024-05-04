@@ -1,6 +1,6 @@
-# Portfolio
+# Engineering studies projects
 
-Repozytorium zawiera projekty, które wykonałem w większości podczas studiów.
+Repozytorium zawiera projekty, które wykonałem podczas studiów inżynierskich.
 Wykorzystałem takie języki programowania, jak Python, C++, Java, C#, JavaScript. Znajdują się tu testy przy pomocy
 narzędzi unittest, selenium. W kilku projektach wykorzystałem narzędzia CI/CD, takie jak Jenkins oraz Gitlab Runner.<br />
 Najważniejsze projekty:
